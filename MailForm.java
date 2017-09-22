@@ -188,7 +188,7 @@ public static final Pattern VALID_EMAIL_ADDRESS_REGEX =
 
 
 final String username = "javaassignmentv@gmail.com";
-        final String password = "42LW23aY03Z068e";
+        final String password = ""; // use restricted token access
 
         Properties props = new Properties();
         props.put("mail.smtp.starttls.enable", "true");
